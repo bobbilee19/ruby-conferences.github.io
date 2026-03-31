@@ -2712,6 +2712,13 @@
   url: https://regional.rubykaigi.org/fukuoka04/
   announced_on: 2023-12-14
 
+- name: Rails Camp USA 2024
+  location: Cascade, Idaho
+  start_date: 2024-08-27
+  end_date: 2024-08-30
+  url: https://west.railscamp.us/2024
+  twitter: railscamp_usa
+
 - name: EuRuKo 2024
   location: Sarajevo, Bosnia and Herzegovina
   start_date: 2024-09-11
